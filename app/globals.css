@@ -1,8 +1,8 @@
-/* @tailwind base;
+@tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-:root {
+/* :root {
   --background: #ffffff;
   --foreground: #171717;
 }
@@ -27,7 +27,7 @@ body {
 } */
 
 
-#footer {
+/* #footer {
   padding: 20px;
   text-align: center;
 }
@@ -56,4 +56,4 @@ body {
     order: 1;
     margin-left: 10px;
   }
-}
+} */
